@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aditya30ag
+- 👀 I’m interested in python coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects
